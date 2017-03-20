@@ -1,4 +1,4 @@
-x`<template lang="html">
+<template lang="html">
   <div class="left-sidenav">
     <md-toolbar>
       <md-button class="md-icon-button" @click.native="toggleLeftSidenav">

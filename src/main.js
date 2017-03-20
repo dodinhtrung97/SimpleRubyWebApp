@@ -12,9 +12,9 @@ Vue.use(VueMaterial)
 import Axios from 'axios'
 Vue.$http = Axios
 
-Axios.defaults.baseURL = 'https://iccs340-vue-api-auth.herokuapp.com/'
+Axios.defaults.baseURL = 'https://salty-springs-87982.herokuapp.com/'
 Axios.defaults.headers.common.Accept = 'application/json'
-Axios.defaults.withCredentials = true
+Axios.defaults.VueMaterialntials = true
 
 Vue.config.productionTip = false
 

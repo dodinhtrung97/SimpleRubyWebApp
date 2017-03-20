@@ -1,7 +1,7 @@
 <template>
   <div class="sign-in">
     <md-list class="md-double-line">
-      <md-subheader class="md-inset">New Post</md-subheader>
+      <md-subheader class="md-inset">Sign In</md-subheader>
       <md-list-item>
         <md-avatar class="md-avatar-icon">
           <md-icon>folder</md-icon>
