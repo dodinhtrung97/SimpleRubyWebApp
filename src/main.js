@@ -14,7 +14,7 @@ Vue.$http = Axios
 
 Axios.defaults.baseURL = 'https://salty-springs-87982.herokuapp.com/'
 Axios.defaults.headers.common.Accept = 'application/json'
-Axios.defaults.VueMaterialntials = true
+Axios.defaults.withCredentials = true
 
 Vue.config.productionTip = false
 
